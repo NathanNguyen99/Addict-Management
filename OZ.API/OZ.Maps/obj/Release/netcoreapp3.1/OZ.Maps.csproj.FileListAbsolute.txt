@@ -1,0 +1,17 @@
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\bin\Release\netcoreapp3.1\OZ.Maps.deps.json
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\bin\Release\netcoreapp3.1\OZ.Maps.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\bin\Release\netcoreapp3.1\OZ.Maps.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\bin\Release\netcoreapp3.1\OZ.Entities.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\bin\Release\netcoreapp3.1\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\bin\Release\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\bin\Release\netcoreapp3.1\OZ.Interfaces.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\bin\Release\netcoreapp3.1\OZ.Entities.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\bin\Release\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\obj\Release\netcoreapp3.1\OZ.Maps.csproj.AssemblyReference.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\obj\Release\netcoreapp3.1\OZ.Maps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\obj\Release\netcoreapp3.1\OZ.Maps.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\obj\Release\netcoreapp3.1\OZ.Maps.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\obj\Release\netcoreapp3.1\OZ.Maps.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\obj\Release\netcoreapp3.1\OZ.Maps.csproj.CopyComplete
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\obj\Release\netcoreapp3.1\OZ.Maps.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Maps\obj\Release\netcoreapp3.1\OZ.Maps.pdb

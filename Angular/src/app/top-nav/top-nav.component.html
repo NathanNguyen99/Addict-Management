@@ -1,0 +1,31 @@
+<mat-toolbar color="primary" class="mat-elevation-z1">
+  <mat-toolbar-row>
+    <button mat-icon-button id="menu" (click)="navService.tongleNav()">
+      <mat-icon>menu</mat-icon>
+    </button>
+    
+    <span fxHide.xs>HỆ THỐNG QUẢN LÝ NGƯỜI NGHIỆN</span>
+    <span class="example-spacer"></span>
+
+    <button mat-button [matMenuTriggerFor]="menu">
+      <mat-icon>account_box</mat-icon>
+      {{helper.getUserFullName()}}
+    </button>
+<!-- #enddocregion mat-menu-trigger-for -->
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item [routerLink]="'system/changepassword'">
+        <mat-icon>account_circle</mat-icon>
+        <span>Đổi mật khẩu</span> 
+      </button>
+      <!-- <button mat-menu-item [routerLink]=" ['./logout'] ">
+        <mat-icon>power_settings_new</mat-icon>
+       <span>Log out</span>
+      </button> -->
+      <button mat-menu-item (click)="logout()">
+        <mat-icon>power_settings_new</mat-icon>
+       <span>Log out</span>
+      </button>
+    </mat-menu>
+
+  </mat-toolbar-row>
+</mat-toolbar>

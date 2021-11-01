@@ -1,0 +1,17 @@
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\bin\Release\netcoreapp3.1\OZ.Services.deps.json
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\bin\Release\netcoreapp3.1\OZ.Services.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\bin\Release\netcoreapp3.1\OZ.Services.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\bin\Release\netcoreapp3.1\OZ.Entities.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\bin\Release\netcoreapp3.1\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\bin\Release\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\bin\Release\netcoreapp3.1\OZ.Interfaces.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\bin\Release\netcoreapp3.1\OZ.Entities.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\bin\Release\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\obj\Release\netcoreapp3.1\OZ.Services.csproj.AssemblyReference.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\obj\Release\netcoreapp3.1\OZ.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\obj\Release\netcoreapp3.1\OZ.Services.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\obj\Release\netcoreapp3.1\OZ.Services.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\obj\Release\netcoreapp3.1\OZ.Services.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\obj\Release\netcoreapp3.1\OZ.Services.csproj.CopyComplete
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\obj\Release\netcoreapp3.1\OZ.Services.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Services\obj\Release\netcoreapp3.1\OZ.Services.pdb

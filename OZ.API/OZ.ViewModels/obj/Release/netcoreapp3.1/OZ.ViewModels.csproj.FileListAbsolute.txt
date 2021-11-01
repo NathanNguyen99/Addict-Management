@@ -1,0 +1,10 @@
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\bin\Release\netcoreapp3.1\OZ.ViewModels.deps.json
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\bin\Release\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\bin\Release\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Release\netcoreapp3.1\OZ.ViewModels.csproj.AssemblyReference.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Release\netcoreapp3.1\OZ.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Release\netcoreapp3.1\OZ.ViewModels.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Release\netcoreapp3.1\OZ.ViewModels.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Release\netcoreapp3.1\OZ.ViewModels.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Release\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Release\netcoreapp3.1\OZ.ViewModels.pdb

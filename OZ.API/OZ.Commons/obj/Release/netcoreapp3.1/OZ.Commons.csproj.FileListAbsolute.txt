@@ -1,0 +1,10 @@
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\bin\Release\netcoreapp3.1\OZ.Commons.deps.json
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\bin\Release\netcoreapp3.1\OZ.Commons.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\bin\Release\netcoreapp3.1\OZ.Commons.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Release\netcoreapp3.1\OZ.Commons.csproj.AssemblyReference.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Release\netcoreapp3.1\OZ.Commons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Release\netcoreapp3.1\OZ.Commons.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Release\netcoreapp3.1\OZ.Commons.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Release\netcoreapp3.1\OZ.Commons.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Release\netcoreapp3.1\OZ.Commons.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Release\netcoreapp3.1\OZ.Commons.pdb

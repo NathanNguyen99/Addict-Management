@@ -1,0 +1,78 @@
+.login-container {
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+  }
+  
+  form {
+    width: 100%;
+  }
+  
+  .login-content {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .login-toolbar {
+    justify-content: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+  
+  .mat-form-field {
+    width: 100%;
+    display: block;
+  }
+  
+  .mat-raised-button {
+    width: 100%;
+    margin-top: 15px;
+  }
+  
+
+.card {
+    max-width: 400px;
+    margin: 2em auto;
+    text-align: center;
+    padding: 60px 1rem;
+
+    
+  }
+
+.card-body {
+  box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+}
+
+  .signin-content {
+    padding: 60px 1rem;
+  }
+  .full-width-input {
+    width: 100%;
+  }
+  .form-group1 {
+    padding-bottom: 0px;
+  }
+
+  .form-group1 > mat-form-field > div{
+    margin-top: 1.3em;
+     
+  }
+
+  ::ng-deep .form-group1 .mat-form-field .mat-form-field-wrapper .mat-form-field-flex{
+    margin-top: 1.3em;
+     
+  }
+
+  /* ::ng-deep .mat-form-field-appearance-legacy .mat-form-field-infix {
+    padding: 1.4375em 0;
+} */
+
+  /* .mat-form-field-flex {
+    margin-top: 1.3em;
+  }
+
+  .mat-form-field-appearance-legacy .mat-form-field-wrapper {
+    padding-bottom: 1.5em;
+} */
