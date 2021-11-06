@@ -24,12 +24,14 @@ import { MoveHistoryComponent } from './moveHistory/moveHistory.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'home', data: { title: 'First Component' }, pathMatch: 'full' },
+
   {
     path: 'login', component: LoginlayoutComponent, data: {title: 'First Component'},
     children: [
       {path: '', component: LoginComponent}
     ]
   },
+  
   {path: 'home', component: HomeComponent, canActivate: [AuthGuard], children: [
     { path: 'dashboard', component: Dashboard1Component },
     // { path: 'login', component: LoginComponent},
